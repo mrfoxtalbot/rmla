@@ -1,7 +1,5 @@
-# rmla
-Restrict Media Library Access WordPress Plugin
-
-Code for the aforementioned WordPress plugin:
+# Restrict Media Library Access
+Just another WordPress Plugin
 https://wordpress.org/plugins/restrict-media-library-access/
 
 # Description
